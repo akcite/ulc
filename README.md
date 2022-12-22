@@ -144,7 +144,6 @@ get_telemetry
         rh = reset --hard  
         rl = !git ls-tree --full-tree -r HEAD  
 
-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
   
 
 ## image_view
